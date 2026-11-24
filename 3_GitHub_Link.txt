@@ -1,0 +1,11 @@
+SkillSwap - Software Engineering Final Project
+Team: Vidushi Singh, Vikalp Tiwari, Vikalp Singh
+
+GitHub repository:
+PASTE-YOUR-GITHUB-LINK-HERE
+
+How to run the project:
+  cd 1_Project_Code/skillswap
+  npm install
+  npm run dev
+Then open http://localhost:5173
